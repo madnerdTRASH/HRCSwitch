@@ -1,11 +1,11 @@
 HRCSwitch
 =========
-HRCSwitch is a fork of RCSwitch libraries that also support HomeEasy Protocol
-If you use send with 3 arguments the library will send a HE300 Protocol Code
-If you use send with 2 arguments the library will send RCSwitch Protocol 1
+*HRCSwitch is a fork of RCSwitch libraries that also support HomeEasy Protocol
+*If you use send with 3 arguments the library will send a HE300 Protocol Code
+*If you use send with 2 arguments the library will send RCSwitch Protocol 1
 
-mySwitch.send(Decimal Code,Length)
-mySwitch.send(Remote/Device code,Button/Recipient code,on/off)
+*mySwitch.send(Decimal Code,Length)
+*mySwitch.send(Remote/Device code,Button/Recipient code,on/off)
 
 
 The librairies have a test code inside example (senddemo)
